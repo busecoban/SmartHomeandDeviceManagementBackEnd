@@ -109,4 +109,15 @@ The backend includes several controllers to manage different aspects of the smar
 - Implement AI-based energy consumption optimization.
 - Integrate more types of IoT devices.
 - Enhance security features with advanced image and video processing.
+
+## PROJECT TEAM:
+- Ibrahim Duman              Back-End Lead
+- Buse Çoban                           
+- Meryem Ahıskalı            
+- Özge Havva Şahin
+
+      
+<img width="374" alt="Screenshot 2024-07-05 at 18 46 20" src="https://github.com/busecoban/SmartHomeandDeviceManagementBackEnd/assets/73944611/80b9f2b3-8d20-41a8-b079-b6dc50e56c54">
+
+
   
