@@ -1,0 +1,15 @@
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Release/net6.0/CleanArchitecture.Infrastructure.deps.json
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Release/net6.0/CleanArchitecture.Infrastructure.dll
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Release/net6.0/CleanArchitecture.Infrastructure.pdb
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Release/net6.0/CleanArchitecture.Core.dll
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/bin/Release/net6.0/CleanArchitecture.Core.pdb
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.csproj.AssemblyReference.cache
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.AssemblyInfoInputs.cache
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.AssemblyInfo.cs
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.csproj.CopyComplete
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.dll
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/refint/CleanArchitecture.Infrastructure.dll
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/CleanArchitecture.Infrastructure.pdb
+/Users/busecoban/Downloads/Backend/CleanArchitecture/CleanArchitecture.Infrastructure/obj/Release/net6.0/ref/CleanArchitecture.Infrastructure.dll
